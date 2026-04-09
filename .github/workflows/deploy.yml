@@ -1,5 +1,4 @@
-name: Deploy MathsTale Frontend to GitHub Pages
-
+name: Deploy Personal Website
 on:
   push:
     branches: [ master ]     
