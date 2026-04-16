@@ -10,7 +10,7 @@ const personalInfo = {
   title: "Ph.D. Candidate @ EPCC",
   institution: "The University of Edinburgh",
   bio: "I am a Ph.D. student at the Edinburgh Parallel Computing Centre (EPCC), University of Edinburgh. My research explores how generative AI can support children's learning through interactive storytelling systems. I develop AI-driven tools that transform mathematical problems into engaging multimodal stories to support understanding and problem solving. In parallel, I work with the Data Science team at TurinTech AI, where I focus on using LLMs and agent-based approaches to automatically optimise code.",
-  email: "K.Zhang-61@sms.ed.ac.uku",
+  email: "K.Zhang-61@sms.ed.ac.uk",
   location: "Edinburgh, Scotland, UK",
   googleScholar: "https://scholar.google.com/citations?hl=en&user=cSPZMuUAAAAJ", 
   github: "https://github.com/Kejia928",
